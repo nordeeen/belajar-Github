@@ -1,3 +1,2 @@
 # belajar-github
-kita mempelajari penggunaan github  
-Hepi Koding Gais!
+kita mempelajari penggunaan github
